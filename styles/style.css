@@ -1,0 +1,36 @@
+#bogota_img{
+    object-fit: cover;
+    width: 100%;
+    height: 300px;
+    border-radius: 20px;
+}
+
+#ciudad_bogota{
+    color:white;
+    position: absolute;
+    top:100px;
+    left:150px;
+    background-color: rgba(0, 0, 0, 0.281);
+    border-radius: 10px;
+    padding: 3px;
+}
+
+#icon_bogota{
+    background-color:blueviolet;
+    color:white;
+    width:100px;
+    position: absolute;
+    top:105px;
+    border-radius: 0px 10px 10px 0px;
+    padding: 3px;
+}
+
+#clima_bogota{
+    background-color:aqua;
+    color:white;
+    width:100px;
+    position: absolute;
+    top:155px;
+    padding: 3px;
+    border-radius: 0px 10px 10px 0px;
+}
